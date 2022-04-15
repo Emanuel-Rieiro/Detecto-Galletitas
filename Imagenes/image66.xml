@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Imagenes</folder>
+	<filename>image66.jpg</filename>
+	<path>C:\Users\emanu\OneDrive\Documentos\Data Science\Proyectos\Detecto-Galletitas\Imagenes\image66.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2250</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lulu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>650</xmin>
+			<ymin>1307</ymin>
+			<xmax>1630</xmax>
+			<ymax>2162</ymax>
+		</bndbox>
+	</object>
+</annotation>

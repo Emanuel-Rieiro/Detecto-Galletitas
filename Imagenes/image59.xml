@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Imagenes</folder>
+	<filename>image59.jpg</filename>
+	<path>C:\Users\emanu\OneDrive\Documentos\Data Science\Proyectos\Detecto-Galletitas\Imagenes\image59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2250</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oreo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>931</xmin>
+			<ymin>1478</ymin>
+			<xmax>1328</xmax>
+			<ymax>1848</ymax>
+		</bndbox>
+	</object>
+</annotation>
