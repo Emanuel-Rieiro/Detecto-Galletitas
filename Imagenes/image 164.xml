@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Imagenes</folder>
+	<filename>image 164.jpg</filename>
+	<path>C:\Users\emanu\OneDrive\Documentos\Data Science\Proyectos\Detecto-Galletitas\Imagenes\image 164.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oreo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>410</ymin>
+			<xmax>668</xmax>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Imagenes</folder>
+	<filename>image 156.jpg</filename>
+	<path>C:\Users\emanu\OneDrive\Documentos\Data Science\Proyectos\Detecto-Galletitas\Imagenes\image 156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lulu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>156</ymin>
+			<xmax>414</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>oreo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>605</xmin>
+			<ymin>154</ymin>
+			<xmax>749</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>solar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>989</xmin>
+			<ymin>131</ymin>
+			<xmax>1176</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>
